@@ -2,7 +2,7 @@
 
 A sophisticated web application designed to analyze YouTube playlists, helping you plan your learning or binge-watching schedule effectively. Get detailed time-based analytics, calculate watch times at different speeds, and track your progress through any playlist.
 
-![Playlist TimeMaster Screenshot](screenshot.png)---
+![Playlist TimeMaster Screenshot](screenshot.png)
 
 ## ✨ Features
 
